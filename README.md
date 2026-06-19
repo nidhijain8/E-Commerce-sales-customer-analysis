@@ -37,7 +37,7 @@ Outcomes
 * Improved understanding of sales trends
 * Generated actionable business insights
 
-Project Description (Single Line)
+Project Description 
 
 * Analyzed e-commerce transaction data to identify customer behavior patterns, sales trends, and product performance using Python, SQL, and Power BI.
 
