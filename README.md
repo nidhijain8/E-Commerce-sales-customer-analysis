@@ -4,7 +4,7 @@ An end-to-end Data Analytics project using Python, MySQL, and Power BI to analys
 
 ## Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](dashboard.png)
+![E-Commerce Sales Analysis Dashboard](Dashboard.png)
 
 ## Project Objectives
 
